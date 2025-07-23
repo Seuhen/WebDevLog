@@ -12,3 +12,7 @@
 
 **Reflections**:  
 Today was about rekindling my web dev spark. It felt familiar, but fresh. Understanding how tags work again made me realize how much power simple structure holds. Ready to dive deeper tomorrow!
+
+<!-- Day 1 HTML Snippet -->
+<img src="https://www.example.com/cat.jpg" alt="A cute cat">
+<a href="https://freecodecamp.org">Visit freeCodeCamp</a>
