@@ -17,4 +17,39 @@ Today was about rekindling my web dev spark. It felt familiar, but fresh. Unders
 <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
 <a href="https://freecodecamp.org">Visit freeCodeCamp</a>
 
-https://seuhen.github.io/WebDevLog/hero-card.html
+### 📅 Day 2 – From Structure to Style
+
+**Progress:**
+- ✅ Completed the HTML module: "Cat Photo App"
+- ✅ Reached Lesson 30 of the CSS module: "Café Menu"
+- 🧪 Completed Side Quest: Designed and published a custom Character Card for Lucius
+
+---
+
+**New Concepts Learned:**
+- Semantic HTML elements and form structure
+- CSS fundamentals: colors, fonts, spacing, borders, box model
+- How to preview work using GitHub Pages
+- Linking assets and writing clean, readable code
+
+---
+
+**Side Quest – Lucius Character Card:**
+🧙‍♂️ Created a fully styled HTML/CSS card to represent my original character  
+🔗 [Live Preview on GitHub Pages](https://seuhen.github.io/WebDevLog/hero-card.html)
+
+**Card Features:**
+- Custom `.jpg` image hosted on GitHub
+- Stats layout using `<ul>` and styled `.card` component
+- Color palette inspired by Lucius’s arcane tone (dark, teal, soft glow)
+- Short backstory for immersion
+
+**Snippet:**
+```html
+<ul class="stats">
+  <li>Strength: 16</li>
+  <li>Agility: 15</li>
+  <li>Wisdom: 20</li>
+  <li>Magic: 23</li>
+  <li>Luck: 12</li>
+</ul>
