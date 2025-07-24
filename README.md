@@ -16,3 +16,5 @@ Today was about rekindling my web dev spark. It felt familiar, but fresh. Unders
 <!-- Day 1 HTML Snippet -->
 <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
 <a href="https://freecodecamp.org">Visit freeCodeCamp</a>
+
+https://seuhen.github.io/WebDevLog/hero-card.html
