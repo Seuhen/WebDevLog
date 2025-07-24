@@ -1,44 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Game character card for Shayan's dev journey">
-  <meta name="author" content="Shayan Shoukat Hayat">
-  <title>Character Card – Riven the Wanderer</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Lucius Character Card — All-Attribute Mage" />
+  <meta name="author" content="Seuhen" />
+  <title>Lucius — The Convergent Arcanist</title>
+
   <style>
-    .card {
-      width: 300px;
-      padding: 20px;
-      border: 2px solid #333;
-      border-radius: 10px;
-      font-family: Arial, sans-serif;
-      background-color: #1a1a1a;
-      color: #f5f5f5;
+    body {
+      background-color: #0b0e11;
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      color: #d4d9df;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
     }
+
+    .card {
+      background-color: #1a1d22;
+      border: 1px solid #3c4855;
+      border-radius: 12px;
+      width: 320px;
+      padding: 20px;
+      box-shadow: 0 0 12px rgba(0, 255, 255, 0.15);
+    }
+
     .card img {
       width: 100%;
       border-radius: 8px;
+      margin-bottom: 12px;
+    }
+
+    .card h2 {
+      margin: 0 0 8px;
+      color: #00c4cc;
+      font-size: 22px;
+      text-align: center;
+    }
+
+    .card p {
+      font-size: 14px;
+      margin: 6px 0;
+    }
+
+    .stats {
+      list-style: none;
+      padding: 0;
+      margin: 12px 0;
+    }
+
+    .stats li {
+      background-color: #2a2f36;
+      margin-bottom: 6px;
+      padding: 6px 10px;
+      border-radius: 4px;
+      font-size: 13px;
     }
   </style>
-
 </head>
 <body>
   <div class="card">
+    <img src="https://raw.githubusercontent.com/Seuhen/WebDevLog/main/Lucius.jpg" alt="Lucius — The Mage">
     <h2>Lucius</h2>
-    <img src="https://raw.githubusercontent.com/Seuhen/WebDevLog/main/Lucius.jpg" alt="Lucius">
-    <p><strong>Profession:</strong> All-Attribute Mage</p>
-    <ul>
-      <li>Strength: 10</li>
-      <li>Agility: 8</li>
-      <li>Constitution: 15</li>
-      <li>Mana: 20</li>
-      <li>Luck: 9</li>
+    <p><strong>Class:</strong> All-Attribute Mage 🧙‍♂️</p>
+
+    <ul class="stats">
+      <li>Strength: 16</li>
+      <li>Agility: 15</li>
+      <li>Wisdom: 20</li>
+      <li>Magic: 23</li>
+      <li>Luck: 12</li>
     </ul>
-    <p>Born beneath a lunar eclipse in the shattered ruins of Altherion, Lucius was marked by prophecy as the “Binder of Realms.” Gifted not with a single affinity, but with all—fire, frost, shadow, light, and entropy—he defied the elemental divides that governed mage societies.
-Shunned by guilds who feared imbalance, Lucius wandered the Fractured Coast for years, mastering each discipline in solitude. Where others specialized, he synthesized. His spells don't just cast—they reconfigure reality. Scholars call him dangerous. Oracles call him necessary.
-Now, Lucius seeks the mythical Archive of Omnia, a place rumored to hold the language of creation itself. He doesn't fight for power. He fights to rewrite fate… before it rewrites him.
-</p>
+
+    <p><em>Born under a lunar eclipse and gifted with power across all schools of magic, Lucius is feared by institutions yet fated to rewrite reality. He seeks the Archive of Omnia, a legendary vault of arcane truth.</em></p>
   </div>
 </body>
 </html>
