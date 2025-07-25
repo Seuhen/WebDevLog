@@ -44,6 +44,8 @@ Today was about rekindling my web dev spark. It felt familiar, but fresh. Unders
 - Color palette inspired by Lucius’s arcane tone (dark, teal, soft glow)
 - Short backstory for immersion
 
+---
+
 **Snippet:**
 ```html
 <ul class="stats">
