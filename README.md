@@ -53,3 +53,53 @@ Today was about rekindling my web dev spark. It felt familiar, but fresh. Unders
   <li>Magic: 23</li>
   <li>Luck: 12</li>
 </ul>
+```
+
+### 📅 Day 3 – CSS Deep Dive: Responsive Design in Action
+
+**Progress:**
+- ✅ Completed up to Lesson 60 of Module 2 (“Responsive Web Design”) on freeCodeCamp
+- 🛠️ Enhanced my understanding of layouts, selectors, and responsive units
+
+---
+
+**New Concepts Learned:**
+- CSS Selectors: class, id, attribute, and pseudo-selectors
+- Styling links and interactive states (`:hover`, `:active`)
+- Box Model mastery: `margin`, `padding`
+
+---
+
+**Reflections:**  
+Today was all about making web pages look good and work well on any device. Playing with Flexbox and media queries was both challenging and rewarding. I can already see how powerful responsive design is for real-world projects!
+
+---
+
+**Snippet:**
+```html
+<section>
+  <h2>Desserts</h2>
+  <article class="item">
+    <p class="dessert">Donut</p><p class="price">1.50</p>
+  </article>
+  <article class="item">
+    <p class="dessert">Cherry Pie</p><p class="price">2.75</p>
+  </article>
+  <article class="item">
+    <p class="dessert">Cheesecake</p><p class="price">3.00</p>
+  </article>
+  <article class="item">
+    <p class="dessert">Cinnamon Roll</p><p class="price">2.50</p>
+  </article>
+</section>
+```
+```css
+.menu {
+  width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+```
