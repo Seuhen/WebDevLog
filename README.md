@@ -67,13 +67,14 @@ Today was about rekindling my web dev spark. It felt familiar, but fresh. Unders
 
 **New Concepts Learned:**
 - CSS Selectors: class, id, attribute, and pseudo-selectors
-- Styling links and interactive states (`:hover`, `:active`)
 - Box Model mastery: `margin`, `padding`
+- Font and their styling
+- Display property
 
 ---
 
 **Reflections:**  
-Today was all about making web pages look good and work well on any device. Playing with Flexbox and media queries was both challenging and rewarding. I can already see how powerful responsive design is for real-world projects!
+Today was all about making web pages look good, using different styling fonts and propeties and witnessing the changes happening, seeing it come to life was truly rewarding
 
 ---
 
