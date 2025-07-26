@@ -124,7 +124,7 @@ Today was all about making web pages look good, using different styling fonts an
 
 **Side Quest – The Mystic Ember Tavern Menu:**
 🍻 Designed a fantasy-themed menu for "The Mystic Ember Tavern", featuring magical elixirs and delicious foods  
-🔗 [Live Preview on GitHub Pages](https://seuhen.github.io/WebDevLog/Day)
+🔗 [Live Preview on GitHub Pages](https://seuhen.github.io/WebDevLog/Day%204/Tavern%20Menu%20(Side%20Quest)/tavern_menu.html)
 
 **Menu Features:**
 - Responsive layout using Flexbox and media queries
