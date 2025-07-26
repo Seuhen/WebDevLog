@@ -106,3 +106,84 @@ Today was all about making web pages look good, using different styling fonts an
   max-width: 500px;
 }
 ```
+
+### 📅 Day 4 –  & The Mystic Ember Tavern
+
+**Progress:**
+- ✅ Completed Module 2 'Cafe Menu' with 91 lessons on freeCodeCamp!
+- 🏆 Built and styled a custom tavern menu as a side quest
+
+---
+
+**New Concepts Learned:**
+- CSS Flexbox: `display: flex`, flex-direction, justify and align items
+- Responsive layouts with media queries
+- CSS Grid basics: `display: grid`, grid-template, gap, and placing items
+
+---
+
+**Side Quest – The Mystic Ember Tavern Menu:**
+🍻 Designed a fantasy-themed menu for "The Mystic Ember Tavern", featuring magical elixirs and delicious foods  
+🔗 [Live Preview on GitHub Pages](https://seuhen.github.io/WebDevLog/Day)
+
+**Menu Features:**
+- Responsive layout using Flexbox and media queries
+- Themed color palette with warm, ember-inspired tones
+- Menu items grouped for elixirs and foods
+- Decorative header and custom font
+
+---
+
+**Reflections:**
+Today I finally completed the lessons and the menu came to shape. I also made a custom menu for a fantasy tavern in the same way.
+
+**Snippet:**
+```html
+<h1>Cafe Menu</h1>
+<main>
+  <section>
+    <h2>Coffees</h2>
+    <article class="item">
+      <p class="flavor">French Vanilla</p><p class="price">3.00</p>
+    </article>
+    <article class="item">
+      <p class="flavor">Caramel Macchiato</p><p class="price">3.75</p>
+    </article>
+    <article class="item">
+      <p class="flavor">Pumpkin Spice</p><p class="price">3.50</p>
+    </article>
+    <article class="item">
+      <p class="flavor">Hazelnut</p><p class="price">4.00</p>
+    </article>
+    <article class="item">
+      <p class="flavor">Mocha</p><p class="price">4.50</p>
+    </article>
+  </section>
+</main>
+```
+```css
+body {
+  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  font-family: sans-serif;
+  padding: 20px;
+}
+.menu {
+  width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.flavor, .price {
+  width: 40%;
+}
+h1, h2 {
+  text-align: center;
+}
+```
