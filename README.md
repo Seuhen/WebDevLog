@@ -57,7 +57,7 @@ Today was about rekindling my web dev spark. It felt familiar, but fresh. Unders
 </ul>
 ```
 
-### 📅 Day 3 – CSS Deep Dive: Responsive Design in Action
+### 📅 Day 3 – CSS in Practice: Selectors, Box Model, and Styling Exploration
 
 **Progress:**
 - ✅ Completed up to Lesson 60 of Module 2 (“Responsive Web Design”) on freeCodeCamp
