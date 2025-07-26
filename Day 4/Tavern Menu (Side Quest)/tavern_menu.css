@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=swap');
 
 body {
-  background-image: url('/Assets/Parchment-Texture-Backgound.jpg');
+  background-image: url('https://raw.githubusercontent.com/Seuhen/WebDevLog/main/Assets/Parchment-Texture-Backgound.jpg');
   font-family: 'Uncial Antiqua', cursive;
   color: #3a2e1e;
   padding: 40px;
