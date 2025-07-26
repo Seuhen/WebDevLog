@@ -107,7 +107,7 @@ Today was all about making web pages look good, using different styling fonts an
 }
 ```
 
-### 📅 Day 4 –  & The Mystic Ember Tavern
+### 📅 Day 4 – Café Menu: Responsive and Ready to Serve & The Mystic Ember Tavern
 
 **Progress:**
 - ✅ Completed Module 2 'Cafe Menu' with 91 lessons on freeCodeCamp!
@@ -116,9 +116,11 @@ Today was all about making web pages look good, using different styling fonts an
 ---
 
 **New Concepts Learned:**
-- CSS Flexbox: `display: flex`, flex-direction, justify and align items
-- Responsive layouts with media queries
-- CSS Grid basics: `display: grid`, grid-template, gap, and placing items
+- External stylesheet linking (`styles.css`)  
+- `background-image` and layout centering (`width`, `margin`)  
+- Class-based styling (`.menu`, `.item`, `.flavor`, `.price`)  
+- `display: inline-block` for side-by-side layout  
+- Responsive setup via `<meta viewport>`
 
 ---
 
