@@ -36,8 +36,7 @@ Today was about rekindling my web dev spark. It felt familiar, but fresh. Unders
 
 **Side Quest – Lucius Character Card:**
 🧙‍♂️ Created a fully styled HTML/CSS card to represent my original character  
-🔗 [Live Preview on GitHub Pages](https://seuhen.github.io/WebDevLog/hero-card.html)
-
+🔗 [Live Preview on GitHub Pages](https://seuhen.github.io/WebDevLog/Day 2/hero-card (Side Quest).html)
 **Card Features:**
 - Custom `.jpg` image hosted on GitHub
 - Stats layout using `<ul>` and styled `.card` component
