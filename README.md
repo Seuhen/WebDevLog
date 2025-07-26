@@ -127,7 +127,6 @@ Today was all about making web pages look good, using different styling fonts an
 🔗 [Live Preview on GitHub Pages](https://seuhen.github.io/WebDevLog/Day%204/Tavern%20Menu%20(Side%20Quest)/tavern_menu.html)
 
 **Menu Features:**
-- Responsive layout using Flexbox and media queries
 - Themed color palette with warm, ember-inspired tones
 - Menu items grouped for elixirs and foods
 - Decorative header and custom font
