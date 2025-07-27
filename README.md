@@ -26,15 +26,11 @@ Today was about rekindling my web dev spark. It felt familiar, but fresh. Unders
 - ✅ Reached Lesson 30 of the CSS module: "Café Menu"
 - 🧪 Completed Side Quest: Designed and published a custom Character Card for Lucius
 
----
-
 **New Concepts Learned:**
 - Semantic HTML elements and form structure
 - CSS fundamentals: colors, fonts, spacing, borders, box model
 - How to preview work using GitHub Pages
 - Linking assets and writing clean, readable code
-
----
 
 **Side Quest – Lucius Character Card:**
 🧙‍♂️ Created a fully styled HTML/CSS card to represent my original character  
@@ -45,8 +41,6 @@ Today was about rekindling my web dev spark. It felt familiar, but fresh. Unders
 - Stats layout using `<ul>` and styled `.card` component
 - Color palette inspired by Lucius’s arcane tone (dark, teal, soft glow)
 - Short backstory for immersion
-
----
 
 **Snippet:**
 ```html
@@ -79,20 +73,14 @@ Today was about rekindling my web dev spark. It felt familiar, but fresh. Unders
 - ✅ Completed up to Lesson 60 of Module 2 (“Responsive Web Design”) on freeCodeCamp
 - 🛠️ Enhanced my understanding of layouts, selectors, and responsive units
 
----
-
 **New Concepts Learned:**
 - CSS Selectors: class, id, attribute, and pseudo-selectors
 - Box Model mastery: `margin`, `padding`
 - Font and their styling
 - Display property
 
----
-
 **Reflections:**  
 Today was all about making web pages look good, using different styling fonts and propeties and witnessing the changes happening, seeing it come to life was truly rewarding
-
----
 
 **Snippet:**
 ```html
@@ -131,16 +119,12 @@ Today was all about making web pages look good, using different styling fonts an
 - ✅ Completed Module 2 'Cafe Menu' with 91 lessons on freeCodeCamp!
 - 🏆 Built and styled a custom tavern menu as a side quest
 
----
-
 **New Concepts Learned:**
 - External stylesheet linking (`styles.css`)  
 - `background-image` and layout centering (`width`, `margin`)  
 - Class-based styling (`.menu`, `.item`, `.flavor`, `.price`)  
 - `display: inline-block` for side-by-side layout  
 - Responsive setup via `<meta viewport>`
-
----
 
 **Side Quest – The Mystic Ember Tavern Menu:**
 🍻 Designed a fantasy-themed menu for "The Mystic Ember Tavern", featuring magical elixirs and delicious foods  
@@ -151,18 +135,12 @@ Today was all about making web pages look good, using different styling fonts an
 - Menu items grouped for elixirs and foods
 - Decorative header and custom font
 
----
-
 **Reflections:**
 Today I finally completed the lessons and the menu came to shape. I also made a custom menu for a fantasy tavern in the same way.
 
 **Snippet:**
 ```html
-<h1>Cafe Menu</h1>
-<main>
-  <section>
-    <h2>Coffees</h2>
-    <article class="item">
+<article class="item">
       <p class="flavor">French Vanilla</p><p class="price">3.00</p>
     </article>
     <article class="item">
@@ -170,15 +148,7 @@ Today I finally completed the lessons and the menu came to shape. I also made a 
     </article>
     <article class="item">
       <p class="flavor">Pumpkin Spice</p><p class="price">3.50</p>
-    </article>
-    <article class="item">
-      <p class="flavor">Hazelnut</p><p class="price">4.00</p>
-    </article>
-    <article class="item">
-      <p class="flavor">Mocha</p><p class="price">4.50</p>
-    </article>
-  </section>
-</main>
+</article>
 ```
 ```css
 body {
@@ -193,17 +163,6 @@ body {
   margin-right: auto;
   padding: 20px;
   max-width: 500px;
-}
-.item {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 10px;
-}
-.flavor, .price {
-  width: 40%;
-}
-h1, h2 {
-  text-align: center;
 }
 ```
 
