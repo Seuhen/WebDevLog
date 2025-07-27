@@ -141,13 +141,13 @@ Today I finally completed the lessons and the menu came to shape. I also made a 
 **Snippet:**
 ```html
 <article class="item">
-      <p class="flavor">French Vanilla</p><p class="price">3.00</p>
-    </article>
-    <article class="item">
-      <p class="flavor">Caramel Macchiato</p><p class="price">3.75</p>
-    </article>
-    <article class="item">
-      <p class="flavor">Pumpkin Spice</p><p class="price">3.50</p>
+  <p class="flavor">French Vanilla</p><p class="price">3.00</p>
+</article>
+<article class="item">
+  <p class="flavor">Caramel Macchiato</p><p class="price">3.75</p>
+</article>
+<article class="item">
+  <p class="flavor">Pumpkin Spice</p><p class="price">3.50</p>
 </article>
 ```
 ```css
