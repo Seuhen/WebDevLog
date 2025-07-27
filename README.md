@@ -173,8 +173,6 @@ body {
 **Progress:**
 - ✅ Completed all lessons of Module 3, "CSS Color Markers", on freeCodeCamp!
 
----
-
 **New Concepts Learned:**
 - Applying colors with named values, hex codes, rgb(), and hsl()
 - Setting background and text colors
@@ -182,12 +180,8 @@ body {
 - Creating gradients for backgrounds and decorative effects
 - Styling marker shapes with `border-radius` and shadows
 
----
-
 **Reflections:**  
 Today was vibrant! I explored how to bring color to web pages and make elements pop using different color systems in CSS. Playing with gradients and transparency made the designs feel more dynamic and modern. The color marker project was a fun, creative way to solidify these concepts.
-
----
 
 **Snippet:**
 ```html
