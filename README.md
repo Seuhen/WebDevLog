@@ -1,4 +1,4 @@
-# 💻 Shayan's Coding Quest Log 🚀
+# 💻 스헨's Coding Quest Log 🚀
 
 ### 📅 Day 1 – HTML Foundations Begin!
 See full log: [Day 1/day1.md](Day%201/day1.md)
