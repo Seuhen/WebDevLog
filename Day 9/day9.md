@@ -1,4 +1,4 @@
-### 📅 Day 9 – Rothko-Inspired Painting (Module 6, up to Lesson 22)
+### 📅 Day 9 – Rothko-Inspired Painting
 
 **Progress:**
 - ✅ Completed up to Lesson 22 of 45 total of Module 6 ("Rothko Painting") on freeCodeCamp
