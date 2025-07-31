@@ -39,3 +39,8 @@ See full log: [Day 7/day7.md](Day%207/day7.md)
 See full log: [Day 8/day8.md](Day%208/day8.md)
 
 ---
+
+### 📅 Day 9 – Rothko-Inspired Painting
+See full log: [Day 9/day9.md](Day%209/day9.md)
+
+---
