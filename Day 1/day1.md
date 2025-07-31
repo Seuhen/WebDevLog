@@ -1,3 +1,16 @@
-# Day 1 Content
+### 📅 Day 1 – HTML Foundations Begin!
 
-This is the content for Day 1. Replace this with the actual content from the README.
+**Progress**: Completed 30 lessons of the "Learn HTML by Building a Cat Photo App" module on freeCodeCamp.  
+**Key Concepts Learned**:
+- Headings (`<h1>` to `<h6>`)
+- Paragraphs & Text Formatting
+- Links (`<a href="">`) and Anchor Tags
+- Image embedding (`<img src="">`)
+- Unordered and Ordered Lists
+
+**Reflections**:  
+Today was about rekindling my web dev spark. It felt familiar, but fresh. Understanding how tags work again made me realize how much power simple structure holds. Ready to dive deeper tomorrow!
+
+<!-- Day 1 HTML Snippet -->
+<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
+<a href="https://freecodecamp.org">Visit freeCodeCamp</a>
