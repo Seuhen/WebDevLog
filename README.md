@@ -44,3 +44,8 @@ See full log: [Day 8/day8.md](Day%208/day8.md)
 See full log: [Day 9/day9.md](Day%209/day9.md)
 
 ---
+
+### 📅 Day 10 – Rothko Painting: Module Complete & Advanced CSS Effects
+See full log: [Day 10/day10.md](Day%2010/day10.md)
+
+---
