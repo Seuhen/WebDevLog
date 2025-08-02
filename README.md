@@ -49,3 +49,8 @@ See full log: [Day 9/day9.md](Day%2009/day9.md)
 See full log: [Day 10/day10.md](Day%2010/day10.md)
 
 ---
+
+### 📅 Day 11 – Photo Gallery with CSS Flexbox
+See full log: [Day 11/day11.md](Day%2011/day11.md)
+
+---
