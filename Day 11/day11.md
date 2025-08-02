@@ -1,6 +1,7 @@
 ### 📅 Day 11 – Photo Gallery with CSS Flexbox
 
 **Progress:**
+- ✅ Completed all 24 lessons of the freeCodeCamp Photo Gallery module.
 - ✅ Built a responsive photo gallery using CSS flexbox.
 - ✅ Implemented a flexible layout for images and styled a clean header.
 - ✅ Ensured images maintain their aspect ratio with object-fit.
