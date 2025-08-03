@@ -54,3 +54,8 @@ See full log: [Day 10/day10.md](Day%2010/day10.md)
 See full log: [Day 11/day11.md](Day%2011/day11.md)
 
 ---
+
+### 📅 Day 12 – Typography with a Nutrition Label
+See full log: [Day 11/day11.md](Day%2012/day12.md)
+
+---
