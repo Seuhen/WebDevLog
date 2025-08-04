@@ -59,3 +59,8 @@ See full log: [Day 11/day11.md](Day%2011/day11.md)
 See full log: [Day 12/day12.md](Day%2012/day12.md)
 
 ---
+
+### 📅 Day 13 – Typography Module Completion
+See full log: [Day 13/day13.md](Day%2013/day13.md)
+
+---
