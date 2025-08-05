@@ -60,12 +60,12 @@ See full log: [Day 12/day12.md](Day%2012/day12.md)
 
 ---
 
-### 📅 Day 14 – Accessibility with a Quiz Webpage
-See full log: [Day 14/day14.md](Day%2014/day14.md)
+### 📅 Day 13 – Typography Module Completion
+See full log: [Day 13/day13.md](Day%2013/day13.md)
 
 ---
 
-### 📅 Day 14 – Typography Module Completion
-See full log: [Day 13/day13.md](Day%2013/day13.md)
+### 📅 Day 14 – Accessibility with a Quiz Webpage
+See full log: [Day 14/day14.md](Day%2014/day14.md)
 
 ---
